@@ -1,0 +1,14 @@
+C:\dev\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\dev\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\dev\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\dev\ConsoleApp1\obj\Debug\Questao_CShap.csprojAssemblyReference.cache
+C:\dev\ConsoleApp1\obj\Debug\Questao_CShap.csproj.CoreCompileInputs.cache
+C:\dev\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\dev\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\dev\QuiverQuestoes\Questao_CShap\bin\Debug\ConsoleApp1.exe.config
+C:\dev\QuiverQuestoes\Questao_CShap\bin\Debug\ConsoleApp1.exe
+C:\dev\QuiverQuestoes\Questao_CShap\bin\Debug\ConsoleApp1.pdb
+C:\dev\QuiverQuestoes\Questao_CShap\obj\Debug\Questao_CShap.csprojAssemblyReference.cache
+C:\dev\QuiverQuestoes\Questao_CShap\obj\Debug\Questao_CShap.csproj.CoreCompileInputs.cache
+C:\dev\QuiverQuestoes\Questao_CShap\obj\Debug\ConsoleApp1.exe
+C:\dev\QuiverQuestoes\Questao_CShap\obj\Debug\ConsoleApp1.pdb
